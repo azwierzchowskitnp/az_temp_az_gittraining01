@@ -71,10 +71,6 @@ table 50102 Car
         {
             Caption = 'Description 2';
         }
-        field(16; "Description 3"; Text[100])
-        {
-            Caption = 'Description 3';
-        }
     }
     keys
     {
