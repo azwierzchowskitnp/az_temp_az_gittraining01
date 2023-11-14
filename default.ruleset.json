@@ -1,0 +1,28 @@
+{
+    "name": "Default",
+    "description": "My Default ruleset",
+    "rules": [
+        {
+            "id": "AA0021",
+            "action": "None",
+            "justification": "We don't sort variables"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "We name variables in a differnet way"
+        },
+        {
+            "id": "AW0011",
+            "action": "None",
+            "justification": "hide it"
+        },
+        {
+            "id": "AW0006",
+            "action": "None",
+            "justification": "hide it"
+        }
+        
+
+    ]
+}
