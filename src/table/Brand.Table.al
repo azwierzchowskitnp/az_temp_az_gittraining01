@@ -15,6 +15,10 @@ table 50100 Brand
         {
             Caption = 'Name';
         }
+        field(3; "Name 2"; Text[100])
+        {
+            Caption = 'Name 2';
+        }
     }
     keys
     {
