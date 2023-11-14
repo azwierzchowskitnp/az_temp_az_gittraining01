@@ -67,6 +67,10 @@ table 50102 Car
         {
             Caption = 'Owner Name';
         }
+        field(14; "Description 2"; Text[100])
+        {
+            Caption = 'Description 2';
+        }
     }
     keys
     {
