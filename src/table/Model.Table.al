@@ -35,6 +35,10 @@ table 50101 Model
             Caption = 'Year Filter';
             FieldClass = FlowFilter;
         }
+        field(6; "Name 2"; Text[100])
+        {
+            Caption = 'Name 2';
+        }
     }
     keys
     {
