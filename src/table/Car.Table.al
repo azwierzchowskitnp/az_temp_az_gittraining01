@@ -59,6 +59,10 @@ table 50102 Car
         {
             Caption = 'Message Type';
         }
+        field(12; "Owner Name"; Text[100])
+        {
+            Caption = 'Owner Name';
+        }
     }
     keys
     {
