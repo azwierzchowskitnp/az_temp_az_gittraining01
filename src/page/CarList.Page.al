@@ -50,6 +50,10 @@ page 50102 "Car List"
                 {
                     ToolTip = 'Specifies the value of the Engine Size field.';
                 }
+                field("Description 3"; Rec."Description 3")
+                {
+                    ToolTip = 'Specifies the value of the Description 3 field.';
+                }
             }
         }
     }
